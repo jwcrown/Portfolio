@@ -42,16 +42,6 @@
   margin-bottom: 10px;
 }
 
-@media (max-width: 400px) {
-  section {
-    background-image: image-url("img/seattleMobile.jpg");
-  }
-}
-@media (min-width: 401px) {
-  section {
-    background-image: image-url("img/seattle.jpg");
-  }
-}
 
 
 
