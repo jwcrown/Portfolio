@@ -1,7 +1,4 @@
 /* your styles go here */
-.goUp{
-    margin-top: -160px;
-}
 .image-box {
   background-size: cover;
 }
@@ -45,14 +42,15 @@
   margin-bottom: 10px;
 }
 
-
-.responsiveIMG{
-  background-repeat:no-repeat;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover;
-  background-position:center;
+@media (max-width: 400px) {
+  section {
+    background-image: image-url("img/seattleMobile.jpg");
+  }
+}
+@media (min-width: 401px) {
+  section {
+    background-image: image-url("img/seattle.jpg");
+  }
 }
 
 
