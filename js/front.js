@@ -3,7 +3,7 @@ $(function () {
         lightbox();
         sticky();
         utils();
-        map();
+//         map();
         demo();
     
     });
