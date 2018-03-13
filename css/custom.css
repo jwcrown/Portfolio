@@ -42,6 +42,7 @@
   margin-bottom: 10px;
 }
 
-
-
-
+section #intro {
+  background-image: url('img/seattle.jpg');
+  background-size: cover;
+}
