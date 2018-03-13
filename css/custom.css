@@ -42,7 +42,7 @@
   margin-bottom: 10px;
 }
 
-#intro {
+#intro-bg {
   background-image: url('./../img/seattle.jpg');
   background-size: cover;
 }
