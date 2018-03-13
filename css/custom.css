@@ -1,4 +1,6 @@
 /* your styles go here */
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
 .image-box {
   background-size: cover;
 }
@@ -45,4 +47,10 @@
 #intro-bg {
   background-image: url('./../img/seattle.jpg');
   background-size: cover;
+}
+
+#navigation {
+  font-style: normal;
+  font-family: 'PT Serif', serif;
+  font-size: 1.3em;
 }
