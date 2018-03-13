@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Documentation for Black and White Template by Bootstrapious - http://bootstrapious.com, rel. 2015/12/07",
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "rainyday.js": "^0.1.7"
+  }
+}
