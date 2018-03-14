@@ -45,7 +45,7 @@
 }
 
 #intro-bg {
-  background-image: url('./../img/seattle.jpg');
+  background: url('./../img/seattle.jpg');
   background-size: cover;
 }
 
